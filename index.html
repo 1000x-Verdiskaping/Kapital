@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Norwegian Wealth Abroad</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            padding: 10px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+        .summary {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Norwegian Wealth Managed Abroad</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Wealth (billion NOK)</th>
+                <th>Location</th>
+            </tr>
+        </thead>
+        <tbody id="wealth-table">
+        </tbody>
+    </table>
+
+    <div class="summary" id="summary"></div>
+
+    <script>
+        const abroadResidents = [
+            { name: "John Fredriksen", wealth: 253, location: "Cyprus" },
+            { name: "Torstein Hagen", wealth: 92, location: "Switzerland" },
+            { name: "Ole Andreas Halvorsen", wealth: 76, location: "USA" },
+            { name: "Odd Reitan", wealth: 69, location: "Norway/Switzerland" },
+            { name: "Kjell Inge Røkke", wealth: 35.5, location: "Switzerland" },
+            { name: "Stein Erik Hagen", wealth: 28.5, location: "Switzerland" },
+            { name: "Svein Støle", wealth: 18.5, location: "Switzerland" },
+            { name: "Bjørn Rune Gjelsten", wealth: 18, location: "Norway/Switzerland" },
+            { name: "Lars Wenaas", wealth: 17.5, location: "Norway/Switzerland" },
+            { name: "Peter Preben Wilhelmsen", wealth: 16.5, location: "UK" },
+            { name: "Bent Christian Wilhelmsen", wealth: 16.5, location: "Switzerland" },
+            { name: "Arne Alexander Wilhelmsen", wealth: 16.5, location: "Switzerland" },
+            { name: "Niels G. Stolt-Nielsen", wealth: 16.5, location: "UK" },
+            { name: "Ivar Erik Tollefsen", wealth: 16, location: "Norway/Switzerland" },
+            { name: "Peter Thomas Smedvig", wealth: 13.5, location: "UK" },
+            { name: "Kristian Siem", wealth: 13, location: "UK" },
+            { name: "Erik Must", wealth: 12.5, location: "Norway/Sweden" },
+            { name: "Arne Blystad", wealth: 11, location: "Norway/UK" },
+            { name: "Christian G. Sundt", wealth: 11, location: "Switzerland" },
+            { name: "Leif O. Høegh", wealth: 10.5, location: "Norway/UK" },
+            { name: "Morten W. Høegh", wealth: 10.5, location: "UK" },
+            { name: "Christian Sinding", wealth: 10, location: "Switzerland" },
+            { name: "Jørgen Dahl", wealth: 9.5, location: "Switzerland" },
+            { name: "Storebrand Asset Management", wealth: 1200, location: "Sweden" }
+        ];
+
+        const totalUsablePrivateCapital = 5000; // in billion NOK
+
+        const table = document.getElementById('wealth-table');
+        let totalAbroadWealth = 0;
+
+        abroadResidents.forEach(person => {
+            totalAbroadWealth += person.wealth;
+            const row = `<tr>
+                            <td>${person.name}</td>
+                            <td>${person.wealth}</td>
+                            <td>${person.location}</td>
+                        </tr>`;
+            table.innerHTML += row;
+        });
+
+        const percentageAbroadWealth = ((totalAbroadWealth / totalUsablePrivateCapital) * 100).toFixed(2);
+
+        document.getElementById('summary').innerText = `Total wealth managed from abroad: ${totalAbroadWealth} billion NOK \nPercentage of usable private capital managed from abroad: ${percentageAbroadWealth}%`;
+    </script>
+</body>
+</html>
