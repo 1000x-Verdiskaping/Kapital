@@ -24,11 +24,30 @@
         }
         .summary {
             font-weight: bold;
+            margin-bottom: 20px;
+        }
+        .references {
+            margin-top: 20px;
+        }
+        select {
+            margin-bottom: 20px;
+            padding: 5px;
         }
     </style>
 </head>
 <body>
     <h1>Norwegian Wealth Managed Abroad</h1>
+
+    <label for="country-filter">Filter by Country:</label>
+    <select id="country-filter">
+        <option value="All">All</option>
+        <option value="Switzerland">Switzerland</option>
+        <option value="Cyprus">Cyprus</option>
+        <option value="USA">USA</option>
+        <option value="Sweden">Sweden</option>
+        <option value="Luxembourg">Luxembourg</option>
+        <option value="UK">UK</option>
+    </select>
 
     <table>
         <thead>
@@ -43,6 +62,22 @@
     </table>
 
     <div class="summary" id="summary"></div>
+
+    <div class="references">
+        <h2>Calculation Details & References</h2>
+        <p>
+            Å bruke <strong>NOK 10 000 milliarder</strong> som nevner for å vurdere kapitalflukt kan være <strong>misvisende</strong>. Denne summen inkluderer <strong>fast eiendom</strong>, som ikke er lett å flytte eller investere utenlands.
+            Når vi ser på <strong>finansiell formue</strong> (aksjer, fond, kontanter), utgjør dette omtrent <strong>26%</strong> av husholdningenes totale verdier ifølge <a href="https://www.bis.org/ifc/publ/ifcb39zs.pdf" target="_blank">BIS</a>.
+        </p>
+        <p>
+            Kilder:
+            <ul>
+                <li><a href="https://www.finansavisen.no/finans/2024/09/19/8178722/milliardaerene-som-flyttet-ut-har-dobbelt-sa-hoy-avkastning-som-patriotene" target="_blank">Finansavisen - Milliardærene som flyttet ut</a></li>
+                <li><a href="https://www.bis.org/ifc/publ/ifcb39zs.pdf" target="_blank">BIS Report on Norwegian Household Wealth</a></li>
+                <li><a href="https://www.dn.no/marked/storebrand-asset-management/fond/storebrand-asset-management-flytter-norske-fond-til-sverige/2-1-1751772" target="_blank">DN - Storebrand Asset Management flytter norske fond til Sverige</a></li>
+            </ul>
+        </p>
+    </div>
 
     <script>
         const abroadResidents = [
@@ -69,7 +104,8 @@
             { name: "Morten W. Høegh", wealth: 10.5, location: "UK" },
             { name: "Christian Sinding", wealth: 10, location: "Switzerland" },
             { name: "Jørgen Dahl", wealth: 9.5, location: "Switzerland" },
-            { name: "Storebrand Asset Management", wealth: 1200, location: "Sweden" }
+            { name: "Storebrand Asset Management", wealth: 1200, location: "Sweden" },
+            { name: "Danske Bank Asset Management", wealth: 1200, location: "Luxembourg" }
         ];
 
         const totalUsablePrivateCapital = 5000; // in billion NOK
@@ -77,19 +113,36 @@
         const table = document.getElementById('wealth-table');
         let totalAbroadWealth = 0;
 
-        abroadResidents.forEach(person => {
-            totalAbroadWealth += person.wealth;
-            const row = `<tr>
-                            <td>${person.name}</td>
-                            <td>${person.wealth}</td>
-                            <td>${person.location}</td>
-                        </tr>`;
-            table.innerHTML += row;
+        function renderTable(filteredResidents) {
+            table.innerHTML = '';
+            totalAbroadWealth = 0;
+
+            filteredResidents.forEach(person => {
+                totalAbroadWealth += person.wealth;
+                const row = `<tr>
+                                <td>${person.name}</td>
+                                <td>${person.wealth}</td>
+                                <td>${person.location}</td>
+                            </tr>`;
+                table.innerHTML += row;
+            });
+
+            const percentageAbroadWealth = ((totalAbroadWealth / totalUsablePrivateCapital) * 100).toFixed(2);
+
+            document.getElementById('summary').innerText = `Total wealth managed from abroad: ${totalAbroadWealth} billion NOK \nPercentage of usable private capital managed from abroad: ${percentageAbroadWealth}%`;
+        }
+
+        document.getElementById('country-filter').addEventListener('change', (event) => {
+            const selectedCountry = event.target.value;
+            const filteredResidents = selectedCountry === 'All' 
+                ? abroadResidents 
+                : abroadResidents.filter(person => person.location.includes(selectedCountry));
+
+            renderTable(filteredResidents);
         });
 
-        const percentageAbroadWealth = ((totalAbroadWealth / totalUsablePrivateCapital) * 100).toFixed(2);
-
-        document.getElementById('summary').innerText = `Total wealth managed from abroad: ${totalAbroadWealth} billion NOK \nPercentage of usable private capital managed from abroad: ${percentageAbroadWealth}%`;
+        // Initial render with all data
+        renderTable(abroadResidents);
     </script>
 </body>
 </html>
