@@ -1,0 +1,401 @@
+Name,Fortune,Change,Tax,Age,Type
+John Fredriksen,"253,00 mrd","+48,00 mrd",0 mill,81,Shipping
+Torstein Hagen,"92,00 mrd","+57,60 mrd",0 mill,82,Hotell/Reiseliv
+Ole Andreas Halvorsen,"76,00 mrd","+13,00 mrd",0 mill,64,Finans
+Odd Reitan,"69,00 mrd","+10,00 mrd",0 mill,74,Handel
+Johan Johannson,"55,50 mrd","+4,50 mrd",0 mill,58,Handel
+Johan H. Andresen,"50,00 mrd","+4,80 mrd",0 mill,64,Finans
+Gustav Witzøe,"49,50 mrd","+11,00 mrd",0 mill,72,Sjømat
+Kjell Inge Røkke,"35,50 mrd","-2,90 mrd",0 mill,67,Olje og energi
+Stein Erik Hagen,"28,50 mrd","-2,70 mrd",0 mill,69,Industri
+Petter Anker Stordalen,"23,00 mrd","-2,00 mrd",0 mill,63,Hotell/Reiseliv
+Svein Støle,"18,50 mrd","+2,50 mrd",0 mill,62,Finans
+Bjørn Rune Gjelsten,"18,00 mrd","-1,10 mrd",0 mill,69,Eiendom
+Lars Wenaas,"17,50 mrd","+3,50 mrd",0 mill,74,Eiendom
+Tore Lærdal,"17,00 mrd","+2,60 mrd",0 mill,73,Industri
+Arne Alexander Wilhelmsen,"16,50 mrd","+3,90 mrd",0 mill,60,Hotell/Reiseliv
+Bent Christian Wilhelmsen,"16,50 mrd","+3,90 mrd",0 mill,66,Hotell/Reiseliv
+Niels G. Stolt-Nielsen,"16,50 mrd","+6,75 mrd",0 mill,60,Shipping
+Ole Ertvaag,"16,50 mrd","+4,75 mrd",0 mill,62,Finans
+Peter Preben Wilhelmsen,"16,50 mrd","+3,90 mrd",0 mill,63,Hotell/Reiseliv
+Torstein Ingvald Tvenge,"16,50 mrd","0,00 mrd",0 mill,73,Eiendom
+Ivar Erik Tollefsen,"16,00 mrd","-4,00 mrd",0 mill,64,Eiendom
+Christen Sveaas,"15,00 mrd","+5,50 mrd",0 mill,69,Finans
+Edgar Haugen,"15,00 mrd","-3,00 mrd",0 mill,60,Eiendom
+Peter T. Smedvig,"13,50 mrd","-0,80 mrd",0 mill,79,Finans
+Kristian Siem,"13,00 mrd","+5,10 mrd",0 mill,76,Industri
+Erik Must,"12,50 mrd","+1,00 mrd",0 mill,82,Finans
+Olav Nils Sunde,"12,00 mrd","+2,80 mrd",0 mill,73,Hotell/Reiseliv
+Gerhard Meidell Alsaker,"11,50 mrd","+1,50 mrd",0 mill,63,Sjømat
+Arne Blystad,"11,00 mrd","+4,00 mrd",0 mill,70,Shipping
+Christian G. Sundt,"11,00 mrd","+2,40 mrd",0 mill,48,Eiendom
+Else Helene Sundt,"11,00 mrd","+2,40 mrd",0 mill,46,Eiendom
+Inge Harald Berg,"11,00 mrd","+1,35 mrd",0 mill,61,Sjømat
+Fred. Olsen,"10,50 mrd","+1,40 mrd",0 mill,96,Industri
+Leif O. Høegh,"10,50 mrd","+1,20 mrd",0 mill,62,Shipping
+Morten W. Høegh,"10,50 mrd","+1,20 mrd",0 mill,52,Shipping
+Christian Sinding,"10,00 mrd","+2,30 mrd",0 mill,53,Finans
+Per Otto Rasmussen Dahl,"9,60 mrd","+9,60 mrd",0 mill,54,Finans
+Jørgen Dahl,"9,50 mrd","-0,60 mrd",0 mill,56,Handel
+Anders C. G. Wilhelmsen,"9,45 mrd","-0,15 mrd",0 mill,71,Finans
+Trygve Seglem,"9,10 mrd","+1,95 mrd",0 mill,74,Shipping
+Nicolai Tangen,"9,00 mrd","+0,50 mrd",0 mill,59,Finans
+Øystein Moan,"9,00 mrd","+2,50 mrd",0 mill,66,Finans
+Helene Odfjell,"8,90 mrd","+3,05 mrd",0 mill,60,Olje og energi
+Knut Gustaf Aspelin,"8,50 mrd","+0,60 mrd",0 mill,76,Eiendom
+Dag Rasmussen,"8,15 mrd","+0,45 mrd",0 mill,57,Finans
+Magne Jordanger,"8,00 mrd","+0,20 mrd",0 mill,72,Finans
+Aage Thoresen,"7,60 mrd","-0,40 mrd",0 mill,72,Eiendom
+Haakon Lorentzen,"7,40 mrd","0,00 mrd",0 mill,71,Industri
+Tom Erik Klaveness,"7,30 mrd","+1,00 mrd",0 mill,78,Shipping
+Frederik Wilhelm Mohn,"7,25 mrd","-1,45 mrd",0 mill,48,Finans
+Arne Helge Fredly,"7,00 mrd","+0,50 mrd",0 mill,61,Finans
+Marit Mohn,"6,90 mrd","+0,65 mrd",0 mill,79,Finans
+Ola Helge Holmøy,"6,85 mrd","+1,90 mrd",0 mill,81,Sjømat
+Kjell Christian Ulrichsen,"6,75 mrd","+3,00 mrd",0 mill,81,Finans
+Iwan Eide Knudsen,"6,70 mrd","+1,00 mrd",0 mill,61,Shipping
+Tom Eide Knudsen,"6,70 mrd","+1,00 mrd",0 mill,66,Shipping
+Hans Peter Jebsen,"6,55 mrd","+2,35 mrd",0 mill,68,Shipping
+Trond Mohn,"6,55 mrd","+0,55 mrd",0 mill,82,Finans
+Anders Misund,"6,50 mrd","+2,10 mrd",0 mill,52,Finans
+Jonas Ramm,"6,50 mrd","-0,40 mrd",0 mill,74,Eiendom
+Christian Ringnes,"6,35 mrd","-0,25 mrd",0 mill,71,Eiendom
+Trond Harald Klaveness,"6,30 mrd","+1,60 mrd",0 mill,61,Shipping
+Harald Høegh,"6,10 mrd","+0,85 mrd",0 mill,49,Shipping
+Kjetil Holta,"6,10 mrd","+0,75 mrd",0 mill,60,Finans
+Helge Arvid Møgster,"6,00 mrd","+1,40 mrd",0 mill,72,Sjømat
+Kristian Arne Adolfsen,"6,00 mrd","+0,50 mrd",0 mill,64,Eiendom
+Ole Gunnar Selvaag,"6,00 mrd","-0,80 mrd",0 mill,79,Eiendom
+Roger Adolfsen,"6,00 mrd","+0,50 mrd",0 mill,61,Eiendom
+Knut N. Tønnevold Ugland,"5,70 mrd","+0,90 mrd",0 mill,39,Shipping
+Mélanie T. S. Gotteberg,"5,70 mrd","+1,20 mrd",0 mill,46,Shipping
+Roy Gunnar Holth,"5,70 mrd","-0,10 mrd",0 mill,69,Eiendom
+Anne Catrine Møller,"5,60 mrd","-0,40 mrd",0 mill,63,Handel
+Jakob Hatteland,"5,60 mrd","-0,10 mrd",0 mill,74,Industri
+Per Rolf Sævik,"5,60 mrd","+0,10 mrd",0 mill,85,Hotell/Reiseliv
+Yuhong Jin Hermansen,"5,60 mrd","+0,85 mrd",0 mill,57,Hotell/Reiseliv
+Michael Steensland-Brun,"5,55 mrd","+0,90 mrd",0 mill,44,Shipping
+Øystein Stray Spetalen,"5,50 mrd","-0,50 mrd",0 mill,63,Finans
+Endre Røsjø,"5,45 mrd","+0,50 mrd",0 mill,81,Finans
+Frode Teigen,"5,40 mrd","+0,35 mrd",0 mill,63,Finans
+Tor Øivind Fjeld,"5,40 mrd","-0,40 mrd",0 mill,77,Industri
+Cathrine Rasmussen,"5,35 mrd","+0,35 mrd",0 mill,60,Finans
+Are Traasdahl,"5,30 mrd","+1,05 mrd",0 mill,52,Finans
+Fritz Thorkil Rieber,"5,30 mrd","+1,70 mrd",0 mill,62,Eiendom
+Harald Møller,"5,30 mrd","-0,50 mrd",0 mill,67,Handel
+Menne Steensland,"5,30 mrd","+0,90 mrd",0 mill,72,Shipping
+Morten Angelil,"5,30 mrd","+1,40 mrd",0 mill,59,Finans
+Olav Stangeland,"5,30 mrd","+1,80 mrd",0 mill,70,Finans
+Laurence Ward Odfjell,"5,25 mrd","+2,25 mrd",0 mill,60,Shipping
+Børge Hald,"5,20 mrd","+0,20 mrd",0 mill,59,Finans
+Egil Stenshagen,"5,20 mrd","+0,50 mrd",0 mill,78,Finans
+Morten Møller,"5,20 mrd","-0,50 mrd",0 mill,65,Handel
+Øyvin Anders Brøymer,"5,10 mrd","+1,35 mrd",0 mill,77,Finans
+Ståle Kyllingstad,"5,05 mrd","+1,25 mrd",0 mill,65,Olje og energi
+Helge Gåsø,"5,00 mrd","+0,50 mrd",0 mill,64,Sjømat
+Michael Stang Treschow,"5,00 mrd","-0,10 mrd",0 mill,38,Industri
+Morten Simonsen,"5,00 mrd","+5,00 mrd",0 mill,69,Shipping
+Stein Førde,"5,00 mrd","-0,40 mrd",0 mill,77,Handel
+Tom Rune Pedersen,"5,00 mrd","0,00 mrd",0 mill,65,Eiendom
+Johan Odvar Odfjell,"4,95 mrd","+0,60 mrd",0 mill,58,Finans
+Hjørdis Kluge Smedvig,"4,75 mrd","-0,50 mrd",0 mill,74,Finans
+Karl Lødrup Kvalheim,"4,70 mrd","+2,00 mrd",0 mill,74,Shipping
+Morten Sigval Bergesen,"4,70 mrd","-0,35 mrd",0 mill,74,Finans
+Ola Braanaas,"4,70 mrd","+0,60 mrd",0 mill,63,Sjømat
+Petter Neslein,"4,70 mrd","-0,90 mrd",0 mill,71,Eiendom
+Petter Varner,"4,60 mrd","+1,45 mrd",0 mill,63,Handel
+Stein Marius Varner,"4,60 mrd","+1,40 mrd",0 mill,60,Handel
+Joakim Varner,"4,50 mrd","+1,45 mrd",0 mill,52,Handel
+Rune Stokke,"4,45 mrd","+0,90 mrd",0 mill,64,Industri
+Ove Ingvard Utkilen,"4,35 mrd","+1,35 mrd",0 mill,88,Shipping
+Snorre Osvald Bentsen,"4,35 mrd","+1,10 mrd",0 mill,79,Eiendom
+Stig Rune Remøy,"4,35 mrd","+0,45 mrd",0 mill,66,Shipping
+Endre Tarald Glastad,"4,30 mrd","+0,30 mrd",0 mill,54,Sjømat
+Margaret Boel Garmann,"4,30 mrd","+0,30 mrd",0 mill,70,Hotell/Reiseliv
+Arthur Buchardt,"4,20 mrd","+0,40 mrd",0 mill,77,Eiendom
+Espen Galtung Døsvig,"4,00 mrd","+0,50 mrd",0 mill,53,Eiendom
+Harald Moræus-Hanssen,"4,00 mrd","+0,40 mrd",0 mill,62,Finans
+Jan Henrik Jebsen,"4,00 mrd","+2,30 mrd",0 mill,64,Industri
+Kim Erla,"4,00 mrd","-0,40 mrd",0 mill,66,Eiendom
+Jacob Palmer Meland,"3,95 mrd","+3,95 mrd",0 mill,41,Sjømat
+Jon Erling Melhus,"3,90 mrd","+0,40 mrd",0 mill,80,Eiendom
+Terje Tom Høili,"3,85 mrd","+0,35 mrd",0 mill,81,Eiendom
+Atle Bergshaven,"3,80 mrd","+0,80 mrd",0 mill,79,Shipping
+Tor Andenæs,"3,80 mrd","0,00 mrd",0 mill,82,Eiendom
+Tor Olav Trøim,"3,75 mrd","+0,75 mrd",0 mill,62,Finans
+Odd Einar Sandøy,"3,70 mrd","-0,20 mrd",0 mill,67,Sjømat
+Julia Smedvig Hagland,"3,65 mrd","-0,25 mrd",0 mill,39,Finans
+Ruth Katharina Mustad Bevreng,"3,65 mrd","-0,90 mrd",0 mill,73,Eiendom
+Eivind Gunvaldsen,"3,60 mrd","+0,30 mrd",0 mill,52,Finans
+Geir Hove,"3,60 mrd","-0,40 mrd",0 mill,65,Eiendom
+Kjell Haugland,"3,60 mrd","+0,90 mrd",0 mill,68,Sjømat
+Thomas Wilhelmsen,"3,60 mrd","+0,45 mrd",0 mill,51,Shipping
+Edvard Bakkejord,"3,50 mrd","+0,30 mrd",0 mill,80,Finans
+Knut Gregardsøn Heje,"3,50 mrd","+0,20 mrd",0 mill,75,Handel
+Ring Tore Teigen,"3,50 mrd","+0,30 mrd",0 mill,60,Industri
+Trygve Hegnar,"3,50 mrd","+0,20 mrd",0 mill,82,Finans
+Finn Wilhelm Sinkaberg,"3,40 mrd","+0,50 mrd",0 mill,74,Sjømat
+Jørgen Gregardsøn Heje,"3,40 mrd","+0,30 mrd",0 mill,72,Handel
+Kristian Jebsen,"3,40 mrd","+0,50 mrd",0 mill,71,Shipping
+Trygve Jacobsen,"3,40 mrd","0,00 mrd",0 mill,79,Industri
+Jan Petter Collier,"3,30 mrd","+0,25 mrd",0 mill,75,Finans
+Brynjar Kristian Forbergskog,"3,20 mrd","+0,35 mrd",0 mill,67,Hotell/Reiseliv
+Knut Flakk,"3,20 mrd","0,00 mrd",0 mill,65,Industri
+Ole G. Ottersland,"3,20 mrd","-0,50 mrd",0 mill,77,Eiendom
+Hans Jørgen Lorentzen,"3,10 mrd","+0,25 mrd",0 mill,83,Handel
+Sverre Lorentzen,"3,10 mrd","+0,20 mrd",0 mill,81,Handel
+Jan Haudemann-Andersen,"3,00 mrd","-1,30 mrd",0 mill,67,Finans
+Per Grieg jr.,"3,00 mrd","-0,45 mrd",0 mill,68,Sjømat
+Rolf Westfal-Larsen,"3,00 mrd","+0,80 mrd",0 mill,82,Shipping
+Camilla Marianne Grieg,"2,95 mrd","-0,50 mrd",0 mill,61,Sjømat
+Karen Margrethe Westfal-Larsen,"2,95 mrd","+0,85 mrd",0 mill,89,Shipping
+Trond Eirik Paulsen,"2,95 mrd","+0,20 mrd",0 mill,53,Industri
+Elisabeth Grieg,"2,90 mrd","-0,20 mrd",0 mill,66,Shipping
+Lars Løseth,"2,90 mrd","+0,20 mrd",0 mill,75,Eiendom
+Marianne Odfjell,"2,90 mrd","+0,30 mrd",0 mill,55,Shipping
+Tom Hagen,"2,90 mrd","+0,30 mrd",0 mill,75,Eiendom
+Bjarne Skeie,"2,85 mrd","-0,75 mrd",0 mill,80,Olje og energi
+Johannes Østensjø,"2,85 mrd","+0,10 mrd",0 mill,82,Shipping
+Tor Dagfinn Veen,"2,85 mrd","+0,25 mrd",0 mill,78,Finans
+Dag Leo Martinsen,"2,80 mrd","-0,20 mrd",0 mill,63,Handel
+June Møgster,"2,80 mrd","+0,50 mrd",0 mill,67,Sjømat
+Lill Maren Møgster,"2,80 mrd","+0,60 mrd",0 mill,41,Sjømat
+Svenn Kornelius Bekken,"2,80 mrd","-0,15 mrd",0 mill,74,Industri
+Tore Odfjell,"2,80 mrd","0,00 mrd",0 mill,56,Eiendom
+Einar Øgrey Brandsdal,"2,75 mrd","-0,90 mrd",0 mill,50,Handel
+Elna-Kathrine Grieg,"2,70 mrd","-0,20 mrd",0 mill,58,Sjømat
+Olav Svendsen,"2,70 mrd","+0,20 mrd",0 mill,67,Sjømat
+Knut Øgreid,"2,65 mrd","+0,75 mrd",0 mill,75,Finans
+Ragnar Horn,"2,65 mrd","+0,65 mrd",0 mill,64,Finans
+Arne Græe,"2,60 mrd","+0,20 mrd",0 mill,66,Finans
+Bjørn Risa,"2,60 mrd","+0,20 mrd",0 mill,51,Industri
+Carl Erik Krefting,"2,60 mrd","-0,40 mrd",0 mill,72,Eiendom
+Erik Bøhler,"2,60 mrd","-0,20 mrd",0 mill,77,Eiendom
+Geir Egil Roksvåg,"2,60 mrd","+0,55 mrd",0 mill,71,Industri
+Jens Dag Ulltveit-Moe,"2,60 mrd","+0,15 mrd",0 mill,83,Handel
+Lars Kristoffer Loe,"2,60 mrd","+0,05 mrd",0 mill,55,Industri
+Ole Peter Lorentzen,"2,60 mrd","+0,55 mrd",0 mill,72,Finans
+Steinar Moe,"2,60 mrd","+0,05 mrd",0 mill,71,Handel
+Bjørn Nicolaisen,"2,55 mrd","-0,05 mrd",0 mill,73,Handel
+Atle Sigmund Berge,"2,50 mrd","+0,35 mrd",0 mill,73,Industri
+Didrik Eidsvig,"2,50 mrd","+1,10 mrd",0 mill,52,Finans
+Karl Johan Sunde,"2,50 mrd","+0,10 mrd",0 mill,76,Eiendom
+Kjell Arild Lorentsen,"2,50 mrd","0,00 mrd",0 mill,68,Sjømat
+Magnus Haug Wanberg,"2,50 mrd","+0,05 mrd",0 mill,41,Finans
+Morten Klein,"2,48 mrd","+0,33 mrd",0 mill,56,Finans
+Knut Axel Ugland,"2,45 mrd","+0,50 mrd",11 mill,66,Industri
+Anders Måsøval,"2,40 mrd","+0,80 mrd",0 mill,49,Sjømat
+Carl Einar Bonnevie Rasmussen,"2,40 mrd","+0,15 mrd",0 mill,32,Finans
+Carl Otto Løvenskiold,"2,40 mrd","-0,30 mrd",0 mill,72,Eiendom
+Julie Bonnevie Rasmussen,"2,40 mrd","+0,15 mrd",0 mill,31,Finans
+Lars Måsøval,"2,40 mrd","+0,80 mrd",0 mill,46,Sjømat
+Per Frost,"2,40 mrd","-0,10 mrd",0 mill,79,Eiendom
+Rune Isachsen,"2,40 mrd","+0,50 mrd",0 mill,59,Finans
+Roger Halsebakk,"2,35 mrd","-0,10 mrd",0 mill,60,Sjømat
+Anders Kiær,"2,30 mrd","+0,10 mrd",0 mill,68,Eiendom
+Anders Opsahl,"2,30 mrd","-0,10 mrd",0 mill,54,Eiendom
+Anne Lise Braathen,"2,30 mrd","-0,40 mrd",0 mill,79,Eiendom
+Bjørn Anders Braathen,"2,30 mrd","-0,40 mrd",0 mill,49,Eiendom
+Bjørn Ole Gleditsch,"2,30 mrd","+0,40 mrd",0 mill,62,Industri
+Cristina Gjurød Braathen,"2,30 mrd","-0,40 mrd",0 mill,47,Eiendom
+Erling Braut Haaland,"2,30 mrd","+0,50 mrd",0 mill,25,Finans
+John Arild Ertvaag,"2,30 mrd","0,00 mrd",0 mill,70,Finans
+Karl Ragnar Rimfeldt,"2,30 mrd","-0,10 mrd",0 mill,72,Eiendom
+Ola Volstad,"2,30 mrd","+2,30 mrd",0 mill,69,Shipping
+Per Heidenreich,"2,30 mrd","+0,20 mrd",0 mill,81,Finans
+Marianne Rieber,"2,25 mrd","+0,85 mrd",0 mill,57,Industri
+Peder Lie,"2,25 mrd","0,00 mrd",0 mill,77,Sjømat
+Erik Bakkejord,"2,20 mrd","+0,20 mrd",0 mill,54,Industri
+Francis Stückrath Hay,"2,20 mrd","-0,20 mrd",0 mill,56,Eiendom
+Per Georg Braathen,"2,20 mrd","-0,60 mrd",0 mill,65,Hotell/Reiseliv
+Helen Juell,"2,15 mrd","+0,05 mrd",0 mill,78,Shipping
+Ingvar Hognaland,"2,15 mrd","+0,15 mrd",0 mill,69,Industri
+Kjell Blakseth,"2,15 mrd","+0,15 mrd",0 mill,70,Industri
+Leif Hübert d.y.,"2,15 mrd","-0,35 mrd",0 mill,64,Industri
+Randi Herre Eide,"2,15 mrd","+0,65 mrd",0 mill,61,Sjømat
+Tom Christopher Steckmest,"2,15 mrd","+0,30 mrd",0 mill,61,Shipping
+Cecilie Paus,"2,10 mrd","+0,30 mrd",0 mill,82,Shipping
+Eilert Hanoa,"2,10 mrd","+0,45 mrd",0 mill,55,Finans
+Knut Hage,"2,10 mrd","-0,25 mrd",0 mill,79,Eiendom
+Roar Karlsen,"2,10 mrd","+0,80 mrd",0 mill,83,Sjømat
+Rolv Haugarvoll,"2,10 mrd","+0,05 mrd",0 mill,78,Sjømat
+Stig Otto Nilsen,"2,10 mrd","+0,80 mrd",0 mill,57,Eiendom
+Tone Bjørseth-Andersen,"2,10 mrd","+0,25 mrd",0 mill,56,Industri
+Anders Pedersen,"2,00 mrd","-0,25 mrd",0 mill,82,Finans
+Anne Cecilie Gleditsch,"2,00 mrd","+0,35 mrd",0 mill,58,Industri
+Catharina Fiskerstrand Broch,"2,00 mrd","+2,00 mrd",0 mill,27,Industri
+Elisabeth Eidsvig Vergara,"2,00 mrd","+2,00 mrd",0 mill,56,Handel
+Frode Strand-Nielsen,"2,00 mrd","+0,30 mrd",0 mill,70,Finans
+Geir Langfeldt Olsen,"2,00 mrd","0,00 mrd",0 mill,52,Finans
+Odd Gleditsch d.y.,"2,00 mrd","+0,35 mrd",0 mill,67,Industri
+Ole Jacob Fiskerstrand Broch,"2,00 mrd","+2,00 mrd",0 mill,28,Industri
+Thor Spandow,"2,00 mrd","-0,20 mrd",0 mill,86,Eiendom
+Agnes Elizabeth Astrup Mellbye,"1,95 mrd","-0,15 mrd",0 mill,46,Finans
+Bjørn Steinar Berg-Hansen,"1,95 mrd","+0,25 mrd",0 mill,90,Sjømat
+Egil Dahl,"1,95 mrd","+0,15 mrd",0 mill,57,Finans
+Halle Ragnar Sivertsen,"1,95 mrd","+0,35 mrd",0 mill,67,Sjømat
+Atle Brynestad,"1,90 mrd","+0,30 mrd",0 mill,72,Hotell/Reiseliv
+Bjørn Halvor Kise,"1,90 mrd","+0,50 mrd",0 mill,75,Finans
+Borger Borgenhaug,"1,90 mrd","-0,40 mrd",0 mill,53,Eiendom
+Eva Lilian Nordberg,"1,90 mrd","+0,30 mrd",0 mill,81,Handel
+Geir Olav Drangsland,"1,90 mrd","-0,20 mrd",0 mill,63,Handel
+Jens Petter Selmer,"1,90 mrd","-0,20 mrd",0 mill,75,Handel
+Jens Rugseth,"1,90 mrd","0,00 mrd",0 mill,63,Finans
+Leif Inge Nordhammer,"1,90 mrd","+0,30 mrd",0 mill,67,Sjømat
+Per Halvard Strand,"1,90 mrd","+0,15 mrd",0 mill,79,Industri
+Roger Halshamn,"1,90 mrd","+0,30 mrd",0 mill,70,Handel
+Stein Sturla Steinsvik,"1,90 mrd","+0,25 mrd",0 mill,83,Eiendom
+Trygve Bjerke,"1,90 mrd","-0,40 mrd",0 mill,69,Eiendom
+Anders Endreson,"1,85 mrd","+0,25 mrd",0 mill,66,Finans
+Arild Abel Engh,"1,85 mrd","+0,05 mrd",0 mill,62,Finans
+Arne Veidung,"1,85 mrd","-0,05 mrd",0 mill,69,Eiendom
+Bjarte Tunold,"1,85 mrd","+0,30 mrd",0 mill,66,Sjømat
+Carl Diderik Cappelen,"1,85 mrd","-0,10 mrd",0 mill,70,Industri
+Henrik Müller-Hansen,"1,85 mrd","+0,30 mrd",0 mill,53,Handel
+Kim Wahl,"1,85 mrd","0,00 mrd",0 mill,65,Finans
+Nils Martin Williksen,"1,85 mrd","+0,50 mrd",0 mill,70,Sjømat
+Olav Thon,"1,85 mrd","-0,15 mrd",0 mill,102,Eiendom
+Bertel O. Steen jr.,"1,80 mrd","+0,20 mrd",0 mill,77,Handel
+Bjørn Richard Schage,"1,80 mrd","-0,70 mrd",0 mill,66,Eiendom
+Ivar Johannes Koteng,"1,80 mrd","-0,45 mrd",0 mill,66,Eiendom
+Johan Bernt Michelsen,"1,80 mrd","+1,80 mrd",0 mill,51,Finans
+Knut Schage,"1,80 mrd","-0,70 mrd",0 mill,75,Eiendom
+Nils Wenaas,"1,80 mrd","0,00 mrd",0 mill,71,Industri
+Odd Arvid Sulland,"1,80 mrd","-0,15 mrd",0 mill,82,Handel
+Odd Johnny Winge,"1,80 mrd","+0,10 mrd",0 mill,50,Finans
+Ståle Fatland,"1,80 mrd","+0,20 mrd",0 mill,70,Handel
+Erik Gunnar Braathen,"1,75 mrd","+0,30 mrd",0 mill,70,Finans
+Jan Magnus Kleven,"1,75 mrd","+0,40 mrd",0 mill,67,Olje og energi
+Leopold Løvenskiold,"1,75 mrd","+0,15 mrd",0 mill,54,Eiendom
+Magne Roar Sangolt,"1,75 mrd","+0,05 mrd",0 mill,68,Finans
+Morten Astrup,"1,75 mrd","+0,35 mrd",0 mill,50,Finans
+Svein Tollef Helling,"1,75 mrd","-0,35 mrd",0 mill,81,Handel
+Terje Bondø,"1,75 mrd","+0,10 mrd",0 mill,74,Sjømat
+Dag Stian Stiansen,"1,70 mrd","-0,30 mrd",0 mill,80,Eiendom
+Else Katharina Astrup Petterøe,"1,70 mrd","-0,35 mrd",0 mill,51,Finans
+Fredrik Halvorsen,"1,70 mrd","0,00 mrd",0 mill,52,Finans
+Johan Benad Ugland,"1,70 mrd","+0,15 mrd",0 mill,72,Shipping
+Ketil Sandhaug,"1,70 mrd","+0,05 mrd",0 mill,59,Finans
+Ole Rugland,"1,70 mrd","-0,10 mrd",0 mill,70,Eiendom
+Per Audun Lillebø,"1,70 mrd","0,00 mrd",0 mill,70,Industri
+Petter Fornæss,"1,70 mrd","+0,25 mrd",0 mill,49,Finans
+Thomas Gleditsch,"1,70 mrd","+0,30 mrd",0 mill,66,Industri
+Thor Johan Furuholmen,"1,70 mrd","-0,20 mrd",0 mill,52,Eiendom
+Ove Løfsnæs,"1,65 mrd","+0,15 mrd",0 mill,62,Sjømat
+Sigurd Wahl,"1,65 mrd","-0,35 mrd",0 mill,82,Eiendom
+Alexandra M. Angelil,"1,60 mrd","0,00 mrd",0 mill,57,Finans
+Celina Midelfart,"1,60 mrd","+0,10 mrd",0 mill,52,Finans
+Halgrim Thon,"1,60 mrd","-0,20 mrd",0 mill,79,Eiendom
+Ivar Refsnes,"1,60 mrd","+1,60 mrd",0 mill,51,Sjømat
+Jørgen Jørgensen,"1,60 mrd","+0,05 mrd",0 mill,52,Handel
+Odd Geir Bekkeli,"1,60 mrd","+0,20 mrd",0 mill,79,Sjømat
+Ola Emil Heggset,"1,60 mrd","-0,30 mrd",0 mill,58,Eiendom
+Ola Mæle,"1,60 mrd","+0,30 mrd",0 mill,68,Handel
+Peder Nærbø,"1,60 mrd","+1,60 mrd",0 mill,56,Industri
+Peter Tang Thomsen,"1,60 mrd","+0,10 mrd",0 mill,60,Handel
+Ståle Lindgren,"1,60 mrd","+0,05 mrd",0 mill,58,Handel
+Sverre Berger Brott,"1,60 mrd","+1,60 mrd",0 mill,68,Finans
+Asle Helgheim,"1,55 mrd","+0,40 mrd",0 mill,61,Industri
+Hilde Midthjell,"1,55 mrd","+0,15 mrd",0 mill,65,Finans
+Ivar S. Løge,"1,55 mrd","+0,15 mrd",0 mill,87,Finans
+Kjartan Aas,"1,55 mrd","-0,25 mrd",0 mill,64,Eiendom
+Knut Herman Holler Gjøvaag,"1,55 mrd","-0,05 mrd",0 mill,60,Eiendom
+Thor Lundh,"1,55 mrd","0,00 mrd",0 mill,90,Industri
+Tor Kirkeng,"1,55 mrd","-0,25 mrd",0 mill,72,Handel
+Tore Thorstensen,"1,55 mrd","+0,15 mrd",0 mill,74,Finans
+Aage Johan Remøy,"1,50 mrd","+1,50 mrd",0 mill,70,Shipping
+Anton Jenssen,"1,50 mrd","-0,15 mrd",0 mill,72,Industri
+Astrid Lærdal Frøseth,"1,50 mrd","+0,30 mrd",0 mill,82,Finans
+Bernt Eidesvik,"1,50 mrd","+1,50 mrd",0 mill,55,Shipping
+Dag Adler Blakseth,"1,50 mrd","+0,10 mrd",0 mill,61,Industri
+Eivind Eidesvik,"1,50 mrd","+1,50 mrd",0 mill,50,Shipping
+Erling Jenssen,"1,50 mrd","-0,15 mrd",0 mill,75,Industri
+Harald Espedal,"1,50 mrd","+0,20 mrd",0 mill,53,Finans
+Henrik Advocaat Lund,"1,50 mrd","-0,30 mrd",0 mill,46,Eiendom
+Håkon Olaisen,"1,50 mrd","+0,20 mrd",0 mill,43,Sjømat
+Jan Erik Rivelsrud,"1,50 mrd","+0,10 mrd",0 mill,47,Hotell/Reiseliv
+Kenneth Sandvold,"1,50 mrd","-0,30 mrd",0 mill,74,Eiendom
+Knut Roald,"1,50 mrd","+0,10 mrd",0 mill,65,Eiendom
+Kristin Rivelsrud Juul Møller,"1,50 mrd","+0,10 mrd",0 mill,51,Hotell/Reiseliv
+Lars Helge Helvig,"1,50 mrd","-0,10 mrd",0 mill,65,Industri
+Maria Eidesvik,"1,50 mrd","+1,50 mrd",0 mill,45,Shipping
+Maria Olaisen,"1,50 mrd","+0,20 mrd",0 mill,48,Sjømat
+Pål Georg Gundersen,"1,50 mrd","-5,50 mrd",0 mill,73,Eiendom
+Severin Skaugen,"1,50 mrd","+1,50 mrd",0 mill,70,Shipping
+Ståle Gudmund Simonsen,"1,50 mrd","-0,30 mrd",0 mill,56,Eiendom
+Torbjørn Seielstad,"1,50 mrd","-0,20 mrd",0 mill,74,Industri
+Toril Eidesvik,"1,50 mrd","+1,50 mrd",0 mill,57,Shipping
+Aino Olaisen,"1,45 mrd","+0,15 mrd",0 mill,51,Sjømat
+Ellen Karlsen Raaholt,"1,45 mrd","-0,25 mrd",0 mill,67,Eiendom
+Espen Aubert,"1,45 mrd","-0,50 mrd",0 mill,48,Eiendom
+Eva Maria Kristoffersen,"1,45 mrd","+0,35 mrd",0 mill,54,Sjømat
+Jill Beate Gleditsch,"1,45 mrd","+0,25 mrd",0 mill,53,Industri
+Ottar Vartdal,"1,45 mrd","-0,05 mrd",0 mill,67,Sjømat
+Paul-Christian Rieber,"1,45 mrd","+0,20 mrd",0 mill,67,Eiendom
+Tollef Svenkerud,"1,45 mrd","+1,45 mrd",0 mill,48,Eiendom
+Edvin Austbø,"1,40 mrd","-0,60 mrd",0 mill,61,Finans
+Elisabeth Brochmann,"1,40 mrd","+0,05 mrd",0 mill,68,Hotell/Reiseliv
+Espen Nordhus,"1,40 mrd","+0,10 mrd",0 mill,57,Finans
+Gunnar Haagensen,"1,40 mrd","-0,30 mrd",0 mill,60,Sjømat
+Hans Joakim Giørtz,"1,40 mrd","+0,05 mrd",0 mill,82,Handel
+Jo Hanssen,"1,40 mrd","+0,05 mrd",0 mill,85,Finans
+John-Erik Karlsen,"1,40 mrd","-0,40 mrd",0 mill,70,Industri
+Knut Erik L. Karlsen,"1,40 mrd","+0,15 mrd",0 mill,57,Finans
+Kristian Michel Andvord,"1,40 mrd","+0,20 mrd",0 mill,74,Eiendom
+Per Magne Grøndahl,"1,40 mrd","+0,20 mrd",0 mill,62,Sjømat
+Richard Trygve Andvord,"1,40 mrd","+0,20 mrd",0 mill,75,Eiendom
+Sigurd Marius Skaugen,"1,40 mrd","-0,20 mrd",0 mill,67,Finans
+Åge E. Westbø,"1,40 mrd","+0,10 mrd",0 mill,62,Finans
+Birger Stenersen,"1,35 mrd","+1,35 mrd",0 mill,85,Shipping
+Bjørn Henrik Rasmussen,"1,35 mrd","-0,25 mrd",0 mill,72,Industri
+John Hatleskog,"1,35 mrd","+1,35 mrd",0 mill,85,Shipping
+Kjell Andenæs,"1,35 mrd","-0,35 mrd",0 mill,82,Eiendom
+Liv Grethe K. Ellingsen,"1,35 mrd","+1,35 mrd",0 mill,68,Sjømat
+Lotto Milliardær,"1,35 mrd","+1,35 mrd",0 mill,,Finans
+Ole-Eirik Lerøy,"1,35 mrd","+0,30 mrd",0 mill,66,Sjømat
+Paal Hveem,"1,35 mrd","-0,35 mrd",0 mill,72,Eiendom
+Roy Oddvar Myklebust,"1,35 mrd","-0,20 mrd",0 mill,56,Finans
+Terje Haugan,"1,35 mrd","0,00 mrd",0 mill,79,Eiendom
+Alex Vassbotten,"1,30 mrd","-0,05 mrd",0 mill,63,Sjømat
+Ragnvald Albretsen,"1,30 mrd","-0,30 mrd",0 mill,73,Eiendom
+Tord Ueland Kolstad,"1,30 mrd","-0,35 mrd",0 mill,54,Eiendom
+Vidar Lyhus,"1,30 mrd","0,00 mrd",0 mill,68,Eiendom
+Bjørn-Erik Indahl,"1,25 mrd","-0,25 mrd",0 mill,62,Eiendom
+Borgny Eidesvik,"1,25 mrd","+1,25 mrd",0 mill,67,Shipping
+Carl Haakon Garder,"1,25 mrd","0,00 mrd",0 mill,62,Industri
+Halvor H. Holta,"1,25 mrd","-0,05 mrd",0 mill,67,Industri
+Hans Ole Helling,"1,25 mrd","0,00 mrd",0 mill,79,Handel
+John Markus Lervik,"1,25 mrd","+0,15 mrd",0 mill,56,Finans
+Kjell Kristoffersen,"1,25 mrd","-0,25 mrd",0 mill,71,Eiendom
+Leif Jørgen Moger,"1,25 mrd","0,00 mrd",0 mill,82,Finans
+Torgeir Mjør Grimsrud,"1,25 mrd","0,00 mrd",0 mill,80,Eiendom
+Trond Reime Reinertsen,"1,25 mrd","-0,05 mrd",0 mill,80,Industri
+Bettina Burud,"1,20 mrd","+0,10 mrd",0 mill,29,Handel
+Eli Sævareid,"1,20 mrd","-0,30 mrd",0 mill,67,Eiendom
+Erik Tømmeraas Veiby,"1,20 mrd","-0,05 mrd",0 mill,62,Industri
+Gunnar Mikalsen,"1,20 mrd","+1,20 mrd",0 mill,69,Sjømat
+Inge Helge Vassbotten,"1,20 mrd","-0,20 mrd",0 mill,83,Sjømat
+Ingunn Tandberg,"1,20 mrd","-0,20 mrd",0 mill,93,Eiendom
+Joakim Burud,"1,20 mrd","+0,10 mrd",0 mill,32,Handel
+Morthen Bakke,"1,20 mrd","-0,40 mrd",0 mill,56,Eiendom
+Sigurd Steen Aase,"1,20 mrd","-0,15 mrd",0 mill,73,Eiendom
+Simen Thorsen,"1,20 mrd","+1,20 mrd",0 mill,48,Finans
+Torbjørg Svendsen Sæverud,"1,20 mrd","+0,10 mrd",0 mill,66,Sjømat
+Ulf Ellingsen,"1,20 mrd","+1,20 mrd",0 mill,74,Sjømat
+Alf Møkster,"1,15 mrd","+1,15 mrd",0 mill,58,Shipping
+Anna Elisabeth Kristoffersen,"1,15 mrd","+1,15 mrd",0 mill,51,Sjømat
+Anne Jorunn Møkster,"1,15 mrd","+1,15 mrd",0 mill,60,Shipping
+Astrid Simone Møkster,"1,15 mrd","+1,15 mrd",0 mill,50,Shipping
+Geir Førre,"1,15 mrd","+1,15 mrd",0 mill,58,Finans
+Hannah E. Wilhelmsen,"1,15 mrd","+1,15 mrd",0 mill,31,Shipping
+Hans Jacob Sundby,"1,15 mrd","0,00 mrd",0 mill,60,Finans
+Jan Chr. G. Sundt,"1,15 mrd","0,00 mrd",0 mill,78,Finans
+Karl Johan Lier,"1,15 mrd","-0,05 mrd",0 mill,65,Industri
+Kristian Nergaard,"1,15 mrd","+1,15 mrd",0 mill,63,Handel
+Peder Nergaard,"1,15 mrd","+1,15 mrd",0 mill,56,Handel
+Randi Sundby,"1,15 mrd","0,00 mrd",0 mill,57,Finans
+Rune Syversen,"1,15 mrd","+0,05 mrd",0 mill,57,Finans
+Sigbjørn Tysse,"1,15 mrd","+1,15 mrd",0 mill,58,Shipping
+Thomas Johan Jessen,"1,15 mrd","+1,15 mrd",0 mill,49,Sjømat
+Vibeke Nergaard,"1,15 mrd","+1,15 mrd",0 mill,70,Handel
+Vibeke Rivelsrud,"1,15 mrd","0,00 mrd",0 mill,55,Hotell/Reiseliv
